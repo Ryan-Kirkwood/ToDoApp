@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using ToDoApp.Logic;
 
 namespace ToDoApp
 {
